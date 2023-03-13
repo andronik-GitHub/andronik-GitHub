@@ -7,6 +7,5 @@
 
 ### <p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andronik-GitHub&show_icons=true&theme=dark)](https://github.com/andronik-GitHub/github-readme-stats)</p>
 
-### <p align="center">![Skyrim-The-Elder-Scrolls-фэндомы-Довакин-2774081](https://user-images.githubusercontent.com/90332364/224564066-7f3df44a-63af-4a97-820c-ad82ef79ebf0.jpeg)</p>
 
 
